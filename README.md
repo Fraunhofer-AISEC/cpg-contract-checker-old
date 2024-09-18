@@ -1,0 +1,1 @@
+# cpg-contract-checker
